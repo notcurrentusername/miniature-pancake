@@ -8,5 +8,6 @@ void main()
  cin>> j;
  cout<< a+b<<endl;
  cout<< a-b;
+ cout << a * b;
  
 }
